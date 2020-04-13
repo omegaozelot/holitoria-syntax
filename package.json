@@ -1,0 +1,15 @@
+{
+  "name": "holitoria-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Wheat and barley, oats and hay, clover, beans, and mangel-wurzels...",
+  "keywords": [
+    "syntax",
+    "holitoria"
+  ],
+  "repository": "https://github.com/omegaozelot/holitoria-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
