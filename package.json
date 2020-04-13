@@ -1,11 +1,20 @@
 {
   "name": "holitoria-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Wheat and barley, oats and hay, clover, beans, and mangel-wurzels...",
   "keywords": [
     "syntax",
-    "holitoria"
+    "holitoria",
+	"vegetable",
+	"vegetables",
+	"greens",
+	"fruits",
+	"fruit",
+	"harvest",
+	"discord.js",
+	"discord",
+	"margin"
   ],
   "repository": "https://github.com/omegaozelot/holitoria-syntax",
   "license": "MIT",
